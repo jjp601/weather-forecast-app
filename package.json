@@ -1,0 +1,13 @@
+{
+  "name": "weather-forecast-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jon Powell",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "postman-request": "^2.88.1-postman.28"
+  },
+  "devDependencies": {}
+}
